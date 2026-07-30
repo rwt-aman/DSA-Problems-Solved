@@ -21,7 +21,7 @@ class Solution {
         for(int key : map.keySet()){
             pq.add(new Pair(key,map.get(key)));
 
-            if(pq.size() > k){
+            if(pq.size() > k){  // keep the size equal to k store only k element
                 pq.remove();
             }
         }
