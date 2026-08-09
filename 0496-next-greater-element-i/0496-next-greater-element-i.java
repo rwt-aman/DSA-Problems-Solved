@@ -4,15 +4,18 @@ class Solution { // optimal TC:-O(n) AND SC:-(n+m)
         HashMap<Integer,Integer> map = new HashMap<>();
         Stack<Integer> st = new Stack<>();
 
-        for(int i=0;i<nums2.length;i++){ // step1:- putting them in stack and putting in map  
+        // Find next greater element for every nums2 element
+        for(int i=0;i<nums2.length;i++){  
             while(!st.isEmpty() && st.peek() < nums2[i]){
                 map.put(st.pop(),nums2[i]); // put the value as key and pair as its greater element
             }
 
             st.push(nums2[i]);
         }
+        
+        // Remaining elements have no greater element
         while(!st.isEmpty()){ // or we can write for(int i :  stack){map.put(st.pop(),-1);}
-            map.put(st.pop(),-1); // remaining element in stack no greater element assign -1 to them
+            map.put(st.pop(),-1); 
         }
 
         for(int i=0;i<nums1.length;i++){ //fetching nums1 element greater element from map
