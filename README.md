@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0540-single-element-in-a-sorted-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0560-subarray-sum-equals-k) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0682-baseball-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0496-next-greater-element-i) |
 | [2487-remove-nodes-from-linked-list](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/2487-remove-nodes-from-linked-list) |
 ## Number Theory
 |  |
