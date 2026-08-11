@@ -17,23 +17,32 @@ class Solution {
     public TreeNode deleteNode(TreeNode root, int key) {
         if(root == null) return null;
 
-        if(root.val > key){ //move left
+        if(root.val > key){ // move left
             root.left = deleteNode(root.left,key);
         }
         else if(root.val < key){ // move right
             root.right = deleteNode(root.right,key);
         }
-        else{
+        else{ // equal 
             if(root.left == null) return root.right;
             if(root.right == null) return root.left;
 
-            TreeNode curr = root.right;
-            while(curr.left != null) curr = curr.left;
+            root.val = minvalue(root.right);
 
-            root.val = curr.val;
-            root.right = deleteNode(root.right,curr.val);
+            root.right = deleteNode(root.right,root.val);
         }
 
         return root;
+    }
+    
+    public int minvalue(TreeNode root){
+        int min = root.val;
+
+        while(root.left != null){ // min will be at left only BST
+            min = root.left.val;
+            root = root.left;
+        }
+
+        return min;
     }
 }
