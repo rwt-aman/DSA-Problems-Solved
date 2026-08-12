@@ -13,61 +13,63 @@
  *     }
  * }
  */
-class Solution { // most optimize O(n) worst case space is O(h)
-    public int kthSmallest(TreeNode root, int k) { //iterative approach (Moorey)
-        Stack<TreeNode> st = new Stack<>();
 
-        while(root != null || !st.isEmpty()){ // inorder following
+class Solution { // TC:- O(n) and SC:-O(h)
+    // we will use inorder traversal which help to give us sorted elements 
+    int count = 0;
+    int ans = -1;
 
-            while(root != null){ //  go to the extreme left 1st node smallest 
-                st.push(root);
-                root = root.left;
-            }
+    public int kthSmallest(TreeNode root, int k) {
+        inorder(root,k);
 
-            // visit node 
-            root = st.pop();
-            k--;
+        return ans;
+    }
 
-            // kth smallest found
-            if(k == 0){
-                return root.val;
-            }
+    public void inorder(TreeNode root,int k){
+        if(root == null) return;
 
-            // move to right subtree
-            root = root.right;
+        inorder(root.left,k);
 
+        count++;
+
+        if(count == k){
+            ans = root.val;
+            return;
         }
 
-        return -1;
+        inorder(root.right,k);
     }
 }
 
 
 
 
-// class Solution { // TC:- O(n) and SC:-O(h)
-//     // we will use inorder traversal which help to give us sorted elements 
-//     int count = 0;
-//     int ans = -1;
 
-//     public int kthSmallest(TreeNode root, int k) {
-//         inorder(root,k);
+// class Solution { // most optimize O(n) worst case space is O(h)
+//     public int kthSmallest(TreeNode root, int k) { //iterative approach (Moorey)
+//         Stack<TreeNode> st = new Stack<>();
 
-//         return ans;
-//     }
+//         while(root != null || !st.isEmpty()){ // inorder following
 
-//     public void inorder(TreeNode root,int k){
-//         if(root == null) return;
+//             while(root != null){ //  go to the extreme left 1st node smallest 
+//                 st.push(root);
+//                 root = root.left;
+//             }
 
-//         inorder(root.left,k);
+//             // visit node 
+//             root = st.pop();
+//             k--;
 
-//         count++;
+//             // kth smallest found
+//             if(k == 0){
+//                 return root.val;
+//             }
 
-//         if(count == k){
-//             ans = root.val;
-//             return;
+//             // move to right subtree
+//             root = root.right;
+
 //         }
 
-//         inorder(root.right,k);
+//         return -1;
 //     }
 // }
