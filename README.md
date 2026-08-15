@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0088-merge-sorted-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0141-linked-list-cycle) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
@@ -554,4 +557,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
