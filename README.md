@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0018-4sum) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0316-remove-duplicate-letters) |
