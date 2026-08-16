@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1207-unique-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0643-maximum-average-subarray-i) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Greedy
 |  |
 | ------- |
