@@ -3,7 +3,7 @@ class Solution {
         int sum = 0;
 
         for(int i=0;i<k;i++){
-            sum = sum + nums[i];
+            sum += nums[i];
         }
 
         double maxavg = (double) sum / k;
@@ -13,6 +13,7 @@ class Solution {
 
             maxavg = Math.max(maxavg,(double) sum / k);
         }
+
         return maxavg;
     }
 }
