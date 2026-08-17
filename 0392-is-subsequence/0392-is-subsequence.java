@@ -9,6 +9,7 @@ class Solution {
             }
             t1++;
         }
+
         return s1 == s.length();
     }
 }
