@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0907-sum-of-subarray-minimums) |
+| [0930-binary-subarrays-with-sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1004-max-consecutive-ones-iii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0706-design-hashmap](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0706-design-hashmap) |
 | [0904-fruit-into-baskets](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1207-unique-number-of-occurrences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
