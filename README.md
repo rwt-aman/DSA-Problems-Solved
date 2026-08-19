@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0662-maximum-width-of-binary-tree) |
+| [0841-keys-and-rooms](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0841-keys-and-rooms) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0662-maximum-width-of-binary-tree) |
+| [0841-keys-and-rooms](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0841-keys-and-rooms) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -622,4 +624,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0547-number-of-provinces) |
+| [0841-keys-and-rooms](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
