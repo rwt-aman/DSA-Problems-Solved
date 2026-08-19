@@ -1,19 +1,19 @@
 class Solution {
     public int numberOfSubarrays(int[] nums, int k) {
 
-        // Step 1: odd -> 1, even -> 0
+        // odd -> 1, even -> 0
         for (int i = 0; i < nums.length; i++) {
-            if (nums[i] % 2 == 0) {
-                nums[i] = 0;
-            } else {
-                nums[i] = 1;
-            }
+            nums[i] = nums[i] % 2;
         }
 
-        // Step 2: sliding window
-        int count = 0;
+        return atMost(nums, k) - atMost(nums, k - 1);
+    }
+
+    private int atMost(int[] nums, int k) {
+
         int left = 0;
         int sum = 0;
+        int count = 0;
 
         for (int right = 0; right < nums.length; right++) {
 
@@ -24,17 +24,7 @@ class Solution {
                 left++;
             }
 
-            if (sum == k) {
-                int temp = left;
-
-                // Count additional starting positions caused by zeros
-                while (temp <= right && nums[temp] == 0) {
-                    count++;
-                    temp++;
-                }
-
-                count++;
-            }
+            count += right - left + 1;
         }
 
         return count;
