@@ -1,19 +1,23 @@
 class Solution {
-    public void rotate(int[] nums, int k) {
+    public void rotate(int[] nums, int k) { // Right rotate
         int n = nums.length;
-        
-        k = k % n; // this is for if k greater then the array size 
+        int i = 0;
+        int j = n-1;
 
-        // reverse  whole array
-        reverse(nums,0,n-1); 
-        // reverse starting k-1 elements
-        reverse(nums,0,k-1);
-        // reverse rest element from k to n-1
-        reverse(nums,k,n-1);
+        k = k % n; // this is for if k > arr.length
+
+        // Revering first 0 to n-k-1 element(from the right)
+        Reverse(nums,i,n-k-1);
+
+        // Reversing n-k to n-1 elements
+        Reverse(nums,n-k,n-1);
+
+        // Reverse whole array
+        Reverse(nums,i,j);
     }
 
-    public void reverse(int[] nums,int srt,int end){
-        while(srt <= end){
+    public static void Reverse(int[] nums,int srt,int end){
+        while(srt < end){
             int temp = nums[srt];
             nums[srt] = nums[end];
             nums[end] = temp;
