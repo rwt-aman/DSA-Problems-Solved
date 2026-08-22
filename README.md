@@ -647,4 +647,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0841-keys-and-rooms) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
