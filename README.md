@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1695-maximum-erasure-value](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1695-maximum-erasure-value) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Binary Search
 |  |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1903-largest-odd-number-in-string) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1957-delete-characters-to-make-fancy-string) |
 ## Queue
