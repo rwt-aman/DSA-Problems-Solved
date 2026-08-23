@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1903-largest-odd-number-in-string) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1957-delete-characters-to-make-fancy-string) |
 ## Queue
 |  |
 | ------- |
