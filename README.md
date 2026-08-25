@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1572-matrix-diagonal-sum) |
 | [1695-maximum-erasure-value](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1695-maximum-erasure-value) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1991-find-the-middle-index-in-array](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1572-matrix-diagonal-sum) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Hash Table
 |  |
 | ------- |
