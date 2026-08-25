@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0860-lemonade-change) |
+| [0867-transpose-matrix](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0930-binary-subarrays-with-sum) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0867-transpose-matrix](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
