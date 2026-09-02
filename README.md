@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2643-row-with-maximum-ones](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/2643-row-with-maximum-ones) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1572-matrix-diagonal-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2643-row-with-maximum-ones](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/2643-row-with-maximum-ones) |
 ## Hash Table
 |  |
 | ------- |
