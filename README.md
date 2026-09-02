@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0540-single-element-in-a-sorted-array) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0367-valid-perfect-square) |
 | [0523-continuous-subarray-sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0523-continuous-subarray-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1248-count-number-of-nice-subarrays) |
