@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0198-house-robber) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0229-majority-element-ii) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0451-sort-characters-by-frequency) |
 ## Backtracking
@@ -703,4 +706,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0374-guess-number-higher-or-lower) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
