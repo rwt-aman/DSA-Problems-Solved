@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0930-binary-subarrays-with-sum) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1539-kth-missing-positive-number) |
