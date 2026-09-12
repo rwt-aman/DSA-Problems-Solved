@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0056-merge-intervals) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0070-climbing-stairs) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
