@@ -15,6 +15,7 @@ class Solution {
 
             max = Math.max(max,Math.max(prefix,suffix));
         }
+        
         return max;
     }
 }
