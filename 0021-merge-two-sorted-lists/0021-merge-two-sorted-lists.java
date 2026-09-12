@@ -21,10 +21,21 @@ class Solution {
                 current.next = list2;
                 list2 = list2.next;
             }
+            
             current = current.next;
         }
 
-        current.next = (list1 != null) ? list1 : list2; // we can use while loop for both if element still present
+        // current.next = (list1 != null) ? list1 : list2; or
+
+        // At this point, one list is empty. 
+        // The other list may still have nodes.
+        
+        if (list1 != null){ 
+            current.next = list1; 
+        } 
+        else{ 
+            current.next = list2; 
+        }
 
         return dummy.next;
     }
