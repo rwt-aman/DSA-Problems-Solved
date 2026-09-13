@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0875-koko-eating-bananas) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0907-sum-of-subarray-minimums) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Two Pointers
