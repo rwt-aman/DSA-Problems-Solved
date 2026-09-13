@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0455-assign-cookies) |
+| [0463-island-perimeter](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0503-next-greater-element-ii) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0463-island-perimeter](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0463-island-perimeter](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0617-merge-two-binary-trees) |
@@ -646,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0226-invert-binary-tree) |
+| [0463-island-perimeter](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0653-two-sum-iv-input-is-a-bst) |
