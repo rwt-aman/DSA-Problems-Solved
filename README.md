@@ -491,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0796-rotate-string) |
 ## Heap (Priority Queue)
 |  |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0572-subtree-of-another-tree) |
 | [0706-design-hashmap](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0706-design-hashmap) |
 ## Union-Find
 |  |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0662-maximum-width-of-binary-tree) |
@@ -613,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0662-maximum-width-of-binary-tree) |
@@ -648,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0662-maximum-width-of-binary-tree) |
