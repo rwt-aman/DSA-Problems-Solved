@@ -7,7 +7,7 @@ class Solution {
         int b = 1;
         int c = 1;
 
-        for(int i =3;i<=n;i++){
+        for(int i=3;i<=n;i++){
             int d = a + b + c;
 
             a = b;
