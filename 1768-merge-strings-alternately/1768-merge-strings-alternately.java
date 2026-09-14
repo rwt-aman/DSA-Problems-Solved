@@ -15,6 +15,7 @@ class Solution {
             ans.append(word1.charAt(p));
             p++;
         }
+        
         while(q < word2.length()){
             ans.append(word2.charAt(q));
             q++;
