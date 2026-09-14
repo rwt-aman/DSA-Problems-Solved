@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0371-sum-of-two-integers) |
 | [0523-continuous-subarray-sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0523-continuous-subarray-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0973-k-closest-points-to-origin) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1248-count-number-of-nice-subarrays) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -772,4 +774,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
