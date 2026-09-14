@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0997-find-the-town-judge](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1046-last-stone-weight) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0997-find-the-town-judge](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0997-find-the-town-judge) |
 | [1207-unique-number-of-occurrences](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -746,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0841-keys-and-rooms) |
+| [0997-find-the-town-judge](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0997-find-the-town-judge) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
