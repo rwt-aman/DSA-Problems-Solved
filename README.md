@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0907-sum-of-subarray-minimums) |
 | [0922-sort-array-by-parity-ii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0930-binary-subarrays-with-sum) |
+| [0953-verifying-an-alien-dictionary](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0953-verifying-an-alien-dictionary) |
 | [0973-k-closest-points-to-origin](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0997-find-the-town-judge) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0706-design-hashmap) |
 | [0904-fruit-into-baskets](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0930-binary-subarrays-with-sum) |
+| [0953-verifying-an-alien-dictionary](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0953-verifying-an-alien-dictionary) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0997-find-the-town-judge) |
 | [1207-unique-number-of-occurrences](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1207-unique-number-of-occurrences) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0953-verifying-an-alien-dictionary](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0953-verifying-an-alien-dictionary) |
 | [1021-remove-outermost-parentheses](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1071-greatest-common-divisor-of-strings) |
