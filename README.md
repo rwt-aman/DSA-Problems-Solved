@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0053-maximum-subarray) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0040-combination-sum-ii) |
 | [0113-path-sum-ii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0113-path-sum-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Memoization
