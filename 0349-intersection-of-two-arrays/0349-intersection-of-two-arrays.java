@@ -20,6 +20,7 @@ class Solution {
         while(it.hasNext()){
             output[idx++] = it.next();
         }
+        
         return output;
     }
 }
