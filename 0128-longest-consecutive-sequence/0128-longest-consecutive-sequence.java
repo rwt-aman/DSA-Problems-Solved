@@ -20,6 +20,7 @@ class Solution {
                 longest = Math.max(longest,length);
             }
         }
+        
         return longest;
     }
 }
