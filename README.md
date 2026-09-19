@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0540-single-element-in-a-sorted-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0392-is-subsequence) |
+| [0518-coin-change-ii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0907-sum-of-subarray-minimums) |
@@ -801,4 +803,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1071-greatest-common-divisor-of-strings) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
