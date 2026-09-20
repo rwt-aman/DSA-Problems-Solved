@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3498-reverse-degree-of-a-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/3498-reverse-degree-of-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1903-largest-odd-number-in-string) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1957-delete-characters-to-make-fancy-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
 |  |
 | ------- |
