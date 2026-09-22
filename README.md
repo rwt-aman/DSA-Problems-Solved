@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0953-verifying-an-alien-dictionary) |
 | [0973-k-closest-points-to-origin](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0994-rotting-oranges](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1572-matrix-diagonal-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Bit Manipulation
 |  |
