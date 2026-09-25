@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0088-merge-sorted-array) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0113-path-sum-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Memoization
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0222-count-complete-tree-nodes) |
