@@ -830,4 +830,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0518-coin-change-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
