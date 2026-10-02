@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0064-minimum-path-sum) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0067-add-binary) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0078-subsets) |
@@ -834,4 +837,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
