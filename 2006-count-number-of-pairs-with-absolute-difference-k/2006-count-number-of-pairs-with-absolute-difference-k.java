@@ -9,6 +9,7 @@ class Solution {
 
             map.put(num,map.getOrDefault(num,0)+1);
         }
+        
         return count;
     }
 }
