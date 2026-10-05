@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0735-asteroid-collision) |
+| [0856-score-of-parentheses](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0953-verifying-an-alien-dictionary](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0953-verifying-an-alien-dictionary) |
 | [1021-remove-outermost-parentheses](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1021-remove-outermost-parentheses) |
@@ -843,4 +845,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
