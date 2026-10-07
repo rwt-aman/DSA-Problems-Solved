@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0392-is-subsequence) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0113-path-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0301-remove-invalid-parentheses) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Memoization
 |  |
@@ -710,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0301-remove-invalid-parentheses) |
 | [0463-island-perimeter](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0617-merge-two-binary-trees) |
