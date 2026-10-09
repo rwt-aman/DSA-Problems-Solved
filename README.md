@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2487-remove-nodes-from-linked-list](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/2487-remove-nodes-from-linked-list) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1382-balance-a-binary-search-tree](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1382-balance-a-binary-search-tree) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -851,4 +854,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
